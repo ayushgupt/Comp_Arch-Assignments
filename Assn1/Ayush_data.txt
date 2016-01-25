@@ -1,0 +1,15 @@
+n=3
+Ins Count:27128947
+Time Elapsed:20.15 secs
+Ins per Sec 1345847
+
+n=4
+Ins Count:52285237
+Time Elapsed:38.5 secs
+Ins per Sec 1356497
+
+n=5
+Ins Count:111006546
+Time Elapsed:1 min 33 secs
+Ins per Sec 1191103
+
